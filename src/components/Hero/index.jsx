@@ -22,15 +22,20 @@ const phrases = [
   "checkout the website now ffs!",
 ];
 
+// const letters = [
+//   "I'm",
+//   "developing",
+//   "Creative",
+//   "&",
+//   "Interactive",
+//   "webapps",
+//   "🚀",
+// ];
+
 const letters = [
-  "I'm",
-  "developing",
-  "Creative",
-  "&",
-  "Interactive",
-  "webapps",
-  "🚀",
-];
+  "I Craft Enterprise-Grade Web Applications",
+  "🚀"
+]
 
 const title = ["Hello!", "I'm", "Karthik"];
 
