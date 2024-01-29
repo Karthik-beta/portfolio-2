@@ -99,14 +99,14 @@ const Contact = () => {
           .
         </p>
 
-        <a href={resume} download={resume}>
+        {/* <a href={resume} download={resume}>
           <button
             id="download-btn"
             className="text-white rounded-full lg:w-fit hover:bg-[#240658] transition duration-500 ease-in-out font-Glimer-Bold font-medium border-[1px] focus:outline-none flex items-center justify-center border-white/50 py-3 px-6 text-lg xl:text-xl 2xl:text-2xl my-10 w-full"
           >
             <BsFileEarmarkPdf className="mr-2" /> Download Resume
           </button>
-        </a>
+        </a> */}
       </div>
 
       <div className="flex flex-col py-2 mb-5 w-full space-y-6 items-center justify-center">
