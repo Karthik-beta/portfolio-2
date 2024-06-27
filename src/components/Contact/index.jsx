@@ -82,7 +82,7 @@ const Contact = () => {
           </a>
           . Sometimes I blog about some of my work on{" "}
           <a
-            href="https://dev.to/tarunfy"
+            href="https://dev.to/"
             target="_blank"
             className="text-white font-Glimer-Medium"
           >
